@@ -1,0 +1,47 @@
+[
+  {
+    "asin": "4868011391",
+    "title": "メロとタビ",
+    "author": "まめきちまめこ",
+    "publisher": "飛鳥新社",
+    "age": "全年齢",
+    "price": 1650,
+    "theme": "ほっこり・癒し",
+    "img": "https://m.media-amazon.com/images/I/91zz15QBG8L._SY522_.jpg",
+    "rating": 4.5,
+    "review_count": 120,
+    "rank": 1,
+    "updated": "2026-04-10",
+    "enriched": true,
+    "title_original": "【初回限定シールＢ付】メロとタビ"
+  },
+  {
+    "asin": "4278087004",
+    "title": "だいじ だいじ どーこだ？",
+    "author": "遠見才希子",
+    "publisher": "赤ちゃんとママ社",
+    "age": "2〜4歳",
+    "price": 1320,
+    "theme": "性教育・体",
+    "img": "https://m.media-amazon.com/images/I/81EhU8MxIbL._SY522_.jpg",
+    "rating": 4.6,
+    "review_count": 980,
+    "rank": 2,
+    "updated": "2026-04-10",
+    "enriched": true
+  },
+  {
+    "asin": "4907474016",
+    "title": "二番目の悪者",
+    "author": "林 木林",
+    "publisher": "小さい書房",
+    "age": "小学生〜",
+    "price": 2398,
+    "theme": "道徳・思いやり",
+    "img": "https://m.media-amazon.com/images/I/611JjmuULHL._SY522_.jpg",
+    "rating": 4.7,
+    "review_count": 1250,
+    "rank": 3,
+    "updated": "2026-04-10",
+    "enriched": true
+  }]
